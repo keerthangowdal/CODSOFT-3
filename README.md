@@ -1,2 +1,9 @@
 # CODSOFT-3
 PASSWORD GENERATOR using PYTHON
+
+#OUTPUT
+
+
+
+https://github.com/keerthangowdal/CODSOFT-3/assets/149758186/cb6a364c-0231-4291-8b13-47aa67194172
+
